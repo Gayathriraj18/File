@@ -83,6 +83,7 @@ public class program
 ```
 ## Output:
 
+![ou](c%239.png)
 
 
 
